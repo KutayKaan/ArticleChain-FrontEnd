@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "img": "avatar1",
+    "authorName": "J. W. Rohlf and Peter J.Collings",
+    "authorInstitution": "Swarthmore College, Boston University",
+    "articleName": "Modern Physics From A to Z",
+    "publicationDate": "12 January 1994",
+    "keywords": ["Modern Physics", "Science", "Technology", "Astronomy"],
+    "content": "Quantum mechanics and relativity have revolutionized our understanding of the physical world. From the dual nature of light and matter to the warping of spacetime, modern physics continues to challenge and expand the boundaries of scientific knowledge. Key technological advancements in this field have paved the way for innovations in various sectors, from medical imaging to space exploration. The collaborative efforts of physicists from Swarthmore College and Boston University, among others, have been instrumental in these discoveries, highlighting the importance of international cooperation in scientific research."
+  },
+  {
+    "id": 2,
+    "img": "avatar2",
+    "authorName": "Emily Post",
+    "authorInstitution": "Independent Scholar",
+    "articleName": "The Art of Etiquette",
+    "publicationDate": "1922",
+    "keywords": ["Etiquette", "Social norms", "Behavior", "Manners"],
+    "content": "In 'The Art of Etiquette,' Emily Post, an independent scholar, explores the intricate social norms and behaviors that define polite society. The book delves into the importance of manners and the subtle cues that govern interactions in various social settings. Post emphasizes that etiquette is not merely about following rules, but about fostering respect and consideration among individuals. Through detailed examples and observations, the work sheds light on the essentials of making others feel comfortable and respected in all social interactions."
+  },
+  {
+    "id": 3,
+    "img": "avatar3",
+    "authorName": "Leo Tolstoy",
+    "authorInstitution": "Independent Author",
+    "articleName": "War and Peace: A Historical Analysis",
+    "publicationDate": "1 January 1869",
+    "keywords": ["War", "History", "Literature", "Philosophy"],
+    "content": "A profound exploration of war and its consequences, Tolstoy's 'War and Peace' remains a timeless classic. Through its intricate narrative, Tolstoy delves into the complexities of human nature, the folly of war, and the pursuit of peace. This historical analysis offers readers a window into the Napoleonic era, while also addressing timeless philosophical questions about power, love, and destiny."
+  },
+  {
+    "id": 4,
+    "img": "avatar4",
+    "authorName": "Virginia Woolf",
+    "authorInstitution": "Independent Author",
+    "articleName": "Feminism in Modern Literature",
+    "publicationDate": "20 March 1929",
+    "keywords": ["Feminism", "Literature", "Gender Studies", "Women's Rights"],
+    "content": "Virginia Woolf's exploration of feminism in modern literature offers a groundbreaking perspective on gender and society. Through incisive analysis, Woolf examines the portrayal of women in literature and the societal constructs that shape their roles. Her work challenges traditional notions of femininity and highlights the importance of women's rights and autonomy in literature and society."
+  },
+  {
+    "id": 5,
+    "img": "avatar5",
+    "authorName": "Mark Twain",
+    "authorInstitution": "Independent Author",
+    "articleName": "The Adventures of Huckleberry Finn: A Critique",
+    "publicationDate": "10 December 1884",
+    "keywords": ["Literature", "Adventure", "American South", "Satire"],
+    "content": "Mark Twain's 'The Adventures of Huckleberry Finn' is a classic work of American literature that continues to spark debate and discussion. Twain's critique of society through the lens of adventure offers insights into the complexities of race, morality, and freedom in the American South. The novel's enduring relevance lies in its exploration of fundamental human values and its challenge to societal norms."
+  },
+  {
+    "id": 6,
+    "img": "avatar6",
+    "authorName": "Albert Einstein",
+    "authorInstitution": "Independent Scholar",
+    "articleName": "Relativity: The Key to Understanding the Universe",
+    "publicationDate": "1 March 1915",
+    "keywords": ["Physics", "Relativity", "Quantum", "Space-Time"],
+    "content": "Albert Einstein's theory of relativity transformed our understanding of the universe. Published in 1915, Einstein's work revolutionized physics by introducing groundbreaking concepts regarding space, time, and gravity. The theory of relativity has had profound implications, from influencing the development of modern cosmology to enabling technological innovations such as GPS systems. Einstein's contributions continue to shape scientific inquiry and inspire new generations of physicists."
+  },
+  {
+    "id": 7,
+    "img": "avatar7",
+    "authorName": "Emily Dickinson",
+    "authorInstitution": "Independent Poet",
+    "articleName": "The Poetic Revolution: Breaking Literary Norms",
+    "publicationDate": "5 May 1862",
+    "keywords": ["Poetry", "Literature", "Revolutionary", "Artistic Expression"],
+    "content": "Emily Dickinson's poetry represents a revolutionary departure from traditional literary norms. Her innovative use of language and form challenged prevailing conventions, paving the way for modernist poetry. Dickinson's exploration of themes such as death, nature, and the self transcends time and continues to captivate readers today. Through her bold experimentation and keen insight, Dickinson remains a towering figure in American literature, her work serving as an enduring testament to the power of artistic expression."
+  },
+  {
+    "id": 8,
+    "img": "avatar8",
+    "authorName": "F. Scott Fitzgerald",
+    "authorInstitution": "Independent Author",
+    "articleName": "The Jazz Age: Cultural Phenomenon of the 1920s",
+    "publicationDate": "15 April 1925",
+    "keywords": ["History", "Culture", "Roaring Twenties", "Literature"],
+    "content": "F. Scott Fitzgerald's 'The Jazz Age' encapsulates the cultural vibrancy and societal upheaval of the 1920s. Through vivid prose and keen observation, Fitzgerald paints a portrait of an era characterized by excess, innovation, and social change. The Jazz Age, with its jazz music, flapper culture, and economic prosperity, represents a time of both celebration and disillusionment. Fitzgerald's exploration of this period continues to resonate with readers, offering insights into the complexities of American society."
+  }
+]

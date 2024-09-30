@@ -1,0 +1,1111 @@
+[
+        {
+            "indexNo": 1,
+            "timestamp": "Fri May 31 10:16:01 TRT 2024",
+            "nonce": 1,
+            "previousBlockHash": "000",
+            "currentBlockHash": "8d1dc22dca47938ebeb7427a90d359e61323d577736778dccc3c4654161f55be",
+            "merkleRoot": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+            "sender_uuid": "00000000-0000-0000-0000-000000000000",
+            "digital_signature": "II2Xc6rCPd8rMJsMKF9hecv9suRLL3oKO1nwi38znh6LSKlBIPXWHrNasoxrDf0YDnWue7GK91EI8R+AOst38qJibumioGQoz0ZycXsy+URBQhxIyPC4wRhKQsdnUaVakbmm4oJaccwGMpFNPXnSgsgeQSlPCnFpxQYFY838MgEq6MqketoocURQspH17fgHQqRYGnNaI4cubEfMKSIA6/WG+7uQHT9ATTR5pdleyynlFvOkFr6hlrz2UysKX9xGYVkhZQ9+hcSDV8ZLn+1v49Zu0HhNsmz9grsodhwfjyWBwiF/zTWwEXO77sU0h150zq7VsBK0QTKWl7gFUKtthQ==",
+            "transactionList": []
+        },
+        {
+            "indexNo": 2,
+            "timestamp": "Fri May 31 10:19:07 TRT 2024",
+            "nonce": 1,
+            "previousBlockHash": "8d1dc22dca47938ebeb7427a90d359e61323d577736778dccc3c4654161f55be",
+            "currentBlockHash": "8006012bd123f76804b12f02a024b69d0d0b51ae84a3e805238f50bd33b33c28",
+            "merkleRoot": "f6f39d71855b801bb7961c053b9726500a43c0aaaae2a66213d9f5f361350f24",
+            "sender_uuid": "00000000-0000-0000-0000-000000000000",
+            "digital_signature": "I1OPcaNCD9w54u6SCOLtczazZKeWepzBxCx8QkcLPPyi/iIsqrlGTy1ABYI2UWjhjR7O2l9EyzN5WMoVpc5ZcqI9MrR0+TjqyVYbPQXhTKwkusMeUKw8iq7f47N7w5GUXTOvNiiOENu0JO3rl4i55Qsj10ZTnjasdKDdJNHqOAnR3bfM9BgJFlO+qJGUx2hGRHdwoYNQjx2GMXFOeeIjFLBhS2mift+72SA3mbLvF4B/LGF7gD9OGy/sPudKb4vSO4B2PIQH3t4YKy/ZUIGqoCs52IJ03kvaPhom/zGfcV9wxcljoi9HmqwnBDwV2WjzHDoeAU+9cHxQAZtw9fei4w==",
+            "transactionList": [
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 48,
+                    "timestamp": "2024-05-31 10:18:45",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "QoSChain",
+                        "article_type": "Original Research",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Data Structures",
+                        "paperAbstract": "QoSChain is an optimization framework for inter network path finding.",
+                        "fileIdentifier": "a1ea80cf-083a-40e8-89cd-cd31e6255b62",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Mr",
+                                "author_name": "Murat Karakus",
+                                "author_email": "murat@karakus.com",
+                                "department": "Department of Software Engineering",
+                                "institution": "Ankara University",
+                                "address": {
+                                    "country": "Turkey",
+                                    "state": "Ankara",
+                                    "zipCode": "03434"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "00000"
+                }
+            ]
+        },
+        {
+            "indexNo": 3,
+            "timestamp": "Fri May 31 11:27:39 TRT 2024",
+            "nonce": 1,
+            "previousBlockHash": "8006012bd123f76804b12f02a024b69d0d0b51ae84a3e805238f50bd33b33c28",
+            "currentBlockHash": "d7928b1a1c1befe6e507be96cc1c5a54b188f4d6f23f6c89b548fa42de992431",
+            "merkleRoot": "19a7680c1246f1ff5cd4477d50cf3e1303a2848ac03c625b73c96971e100900c",
+            "sender_uuid": "00000000-0000-0000-0000-000000000000",
+            "digital_signature": "BeQ3lfIDJIqZuSZVZXO6WW/IIF/0s0i2k3GSrZR30WwElEHXKpTw7KUSkv+VJeDRiol/8bZ/Cze6mk+r1YDp/vw5IZNmi10FoUm22FFVPbFp5w5DcEzKgUX/+amMCuuDLsy4SnXYHgztNN/j/pQxeUmCEbYECHABBuyHT9xUrBDuc5P+XTQ/Z7AFESqihSmy7wNVHRR5emP3RX33ulii7tDHHL9ohBKsdqKLnZlDnBWfppPluXvqNbxNjL4h8E9/YTC4cZ+kdfdfRacINtOj7WoM42mzb8JxP4mRO+v54FaaCiq2XnG6sV8UFEZAJcSanmUFlbXjkeATE1N0xE1GCQ==",
+            "transactionList": [
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 49,
+                    "timestamp": "2024-05-31 10:25:22",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Bepas SPS optimization",
+                        "article_type": "Original Research",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Algorithm Design",
+                        "paperAbstract": "Bepas is an SPS system for optimizing the smart parking systems.",
+                        "fileIdentifier": "819385bf-58c1-496f-a4f3-2c65d55e4dec",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Mr",
+                                "author_name": "Suleyman Uludag",
+                                "author_email": "uludag@umich.com",
+                                "department": "Department of Computer Engineering",
+                                "institution": "University of Michigan",
+                                "address": {
+                                    "country": "USA",
+                                    "state": "Michigan",
+                                    "zipCode": "98343"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "00000"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 50,
+                    "timestamp": "2024-05-31 11:27:18",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "AI in Medical Diagnostics",
+                        "article_type": "Review Articles",
+                        "article_resField": "Medicine",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Machine Learning",
+                        "paperAbstract": "This article reviews the applications of AI and machine learning in medical diagnostics, focusing on recent advancements and future directions.",
+                        "fileIdentifier": "5a70acd5-ae3b-4243-ad7b-9112a9081779",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Dr",
+                                "author_name": "Jane Smith",
+                                "author_email": "janesmith@ucl.ac.uk",
+                                "department": "Department of AI and Robotics",
+                                "institution": "University College London",
+                                "address": {
+                                    "country": "UK",
+                                    "state": "London",
+                                    "zipCode": "E1 4NS"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "67890"
+                }
+            ]
+        },
+        {
+            "indexNo": 4,
+            "timestamp": "Fri May 31 11:32:44 TRT 2024",
+            "nonce": 1,
+            "previousBlockHash": "d7928b1a1c1befe6e507be96cc1c5a54b188f4d6f23f6c89b548fa42de992431",
+            "currentBlockHash": "56a75934cafaf7ff94766df75e445382eb37304c6f08ad5b019672c347690be2",
+            "merkleRoot": "ad1b9461383a9c1baaf4fe71e954f68b06e89f13082e707363769ba53e905eca",
+            "sender_uuid": "00000000-0000-0000-0000-000000000000",
+            "digital_signature": "g+ykxy+JC3wTGrOi1p8sQLQA3FpwcrAonPfVaq+AgQQPIg/mATi4Ba9k38KQAZVY19cKHRBow/uyeQ6KvpDWW5ymCusQ5dKDDz4YpVizdyQ0t9trhGPiCZdW3JmKDanXo205CMp53x6YN5vFvnTnrGMnN9ladjo61Fwt+QAjE4OfhK4rSoA93fG6fCpEl9yFGgpeIeS7JYMHcW4X01+r2pBjIG5t1jxHFoRsa7emWGN6fdz8r13YmT/VfJEZs4H8bFzqEf7mmUlv6v8wXOUIIbC5S60E3SVkUIZCrm1jQmI1YelodvFk8LlvJ+0ZFrUeRx/L45OUP1S/QoK/3iTtbw==",
+            "transactionList": [
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 51,
+                    "timestamp": "2024-05-31 11:30:52",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Efficient Data Structures for Large-Scale Data",
+                        "article_type": "Methodologies",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Data Structures",
+                        "paperAbstract": "This paper presents new methodologies for implementing efficient data structures that can handle large-scale data processing.",
+                        "fileIdentifier": "f49c8cd9-1858-42dc-ad81-925b907ac09d",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Prof",
+                                "author_name": "Hans Müller",
+                                "author_email": "hans.muller@tum.de",
+                                "department": "Department of Informatics",
+                                "institution": "Technical University of Munich",
+                                "address": {
+                                    "country": "Germany",
+                                    "state": "Bavaria",
+                                    "zipCode": "80331"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "12345"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 52,
+                    "timestamp": "2024-05-31 11:31:35",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Climate Change and Its Impact on Marine Life",
+                        "article_type": "Original Research",
+                        "article_resField": "Environmental Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Environmental Science",
+                        "paperAbstract": "This research explores the effects of climate change on marine ecosystems, focusing on the changes in biodiversity and species distribution.",
+                        "fileIdentifier": "cca03542-1059-465a-891f-15ad4e45e3c6",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Dr",
+                                "author_name": "Jane Doe",
+                                "author_email": "jane.doe@unsw.edu.au",
+                                "department": "School of Environmental Sciences",
+                                "institution": "University of New South Wales",
+                                "address": {
+                                    "country": "Australia",
+                                    "state": "New South Wales",
+                                    "zipCode": "2000"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "54321"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 53,
+                    "timestamp": "2024-05-31 11:32:01",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Machine Learning in Genomic Data Analysis",
+                        "article_type": "Review Articles",
+                        "article_resField": "Biotechnology",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Machine Learning",
+                        "paperAbstract": "This review covers the latest machine learning techniques applied in genomic data analysis and their impact on biotechnology.",
+                        "fileIdentifier": "46ed7bcd-e346-4ad9-810e-ee393b8f7a5d",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Dr",
+                                "author_name": "John Smith",
+                                "author_email": "john.smith@ucl.ac.uk",
+                                "department": "Department of Biotechnology",
+                                "institution": "University College London",
+                                "address": {
+                                    "country": "United Kingdom",
+                                    "state": "London",
+                                    "zipCode": "E1 1AA"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "67890"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 54,
+                    "timestamp": "2024-05-31 11:32:24",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Progressive Web Apps: The Future of Mobile Web",
+                        "article_type": "Case Studies",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Web Development",
+                        "paperAbstract": "This case study examines the implementation of Progressive Web Apps (PWAs) and their potential to revolutionize the mobile web experience.",
+                        "fileIdentifier": "00e85c98-cec1-4232-8f81-bc1e5de02bc8",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Miss",
+                                "author_name": "Radhika Patel",
+                                "author_email": "radhika.patel@iitb.ac.in",
+                                "department": "Department of Computer Science",
+                                "institution": "Indian Institute of Technology Bangalore",
+                                "address": {
+                                    "country": "India",
+                                    "state": "Karnataka",
+                                    "zipCode": "560001"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "09876"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 55,
+                    "timestamp": "2024-05-31 11:32:40",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Efficient Database Management for Environmental Data",
+                        "article_type": "Methodologies",
+                        "article_resField": "Environmental Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Database Management",
+                        "paperAbstract": "This paper presents methodologies for efficient database management of large-scale environmental data to support ecological research and policy making.",
+                        "fileIdentifier": "24d00f17-6d55-48c1-a097-90826e99a4c6",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Prof",
+                                "author_name": "Emily Watson",
+                                "author_email": "emily.watson@sydney.edu.au",
+                                "department": "Department of Environmental Science",
+                                "institution": "University of Sydney",
+                                "address": {
+                                    "country": "Australia",
+                                    "state": "New South Wales",
+                                    "zipCode": "2000"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "23456"
+                }
+            ]
+        },
+        {
+            "indexNo": 5,
+            "timestamp": "Fri May 31 11:45:24 TRT 2024",
+            "nonce": 1,
+            "previousBlockHash": "56a75934cafaf7ff94766df75e445382eb37304c6f08ad5b019672c347690be2",
+            "currentBlockHash": "dcd163206160c0496fcfb2ef572092711e23e16acfe1b221b812d481e92dca6c",
+            "merkleRoot": "9385cc0a2261d56ca488a124a5d1b2d7505936ab462b7236238a97964e61b384",
+            "sender_uuid": "00000000-0000-0000-0000-000000000000",
+            "digital_signature": "cQ2M6vlW9kOLYAKKgZOajXM4Gg+wPybOZLg2Y0inkB4CVWOCdChMYwS5dVexOAQs5dv5h8CjNGZ1Dqrov41vr7F8iafKTK4udDxwxhRpmxLH9odzdWFtvLt8Wy8LXyqwdBOK6RNxrU0bxZT2KrITd2YxvXsOvgVYRDTy0SyHZPCXmhCp6FctS053o5qcS8O6ox03AnkmZWoEQ/MgSo0KebIkODr3/DzPCzepti7vmAtm2p7Cm3w32geumUQVD/4AZ2tsU5rT8l9eXrN4XPltLVDwmtcMh5OLlgl46ffmRDGN7KyRz2KTYgAhsJpZfmUXWhPa3LOwrwPNxLm0fZDGng==",
+            "transactionList": [
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 56,
+                    "timestamp": "2024-05-31 11:42:21",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Applying Machine Learning for Early Disease Detection",
+                        "article_type": "Case Studies",
+                        "article_resField": "Medicine",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Machine Learning",
+                        "paperAbstract": "This study investigates the application of machine learning algorithms for the early detection of diseases, showcasing various case studies in the medical field.",
+                        "fileIdentifier": "ae24bf5c-059d-40e8-959f-b3272321cd99",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Dr",
+                                "author_name": "John Smith",
+                                "author_email": "john.smith@kcl.ac.uk",
+                                "department": "Department of Medical Sciences",
+                                "institution": "King's College London",
+                                "address": {
+                                    "country": "United Kingdom",
+                                    "state": "London",
+                                    "zipCode": "EC1A 1AA"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "67890"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 57,
+                    "timestamp": "2024-05-31 11:42:37",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Innovative Approaches in Modern Web Development",
+                        "article_type": "Review Articles",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Web Development",
+                        "paperAbstract": "This review article examines the latest trends and innovative approaches in modern web development, highlighting frameworks, tools, and best practices.",
+                        "fileIdentifier": "fc1e5578-67d7-451b-974e-324769f816c2",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Miss",
+                                "author_name": "Jane Doe",
+                                "author_email": "jane.doe@uoft.ca",
+                                "department": "Department of Computer Science",
+                                "institution": "University of Toronto",
+                                "address": {
+                                    "country": "Canada",
+                                    "state": "Ontario",
+                                    "zipCode": "M5G 1Z4"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "98765"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 58,
+                    "timestamp": "2024-05-31 11:42:49",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Efficient Database Management Systems",
+                        "article_type": "Methodologies",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Database Management",
+                        "paperAbstract": "This paper presents new methodologies for the design and implementation of efficient database management systems.",
+                        "fileIdentifier": "44f927a3-eaff-459c-8ed3-1a82ca8b11c8",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Prof",
+                                "author_name": "Ravi Kumar",
+                                "author_email": "ravi.kumar@iitb.ac.in",
+                                "department": "Department of Computer Science",
+                                "institution": "IIT Bombay",
+                                "address": {
+                                    "country": "India",
+                                    "state": "Maharashtra",
+                                    "zipCode": "400001"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "11223"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 59,
+                    "timestamp": "2024-05-31 11:43:00",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Advances in Object-Oriented Programming",
+                        "article_type": "Review Articles",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Object-Oriented Programming",
+                        "paperAbstract": "This review article discusses recent advances in object-oriented programming techniques and their applications in software development.",
+                        "fileIdentifier": "98161817-cdb1-4586-8b7d-78eb5239410c",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Dr",
+                                "author_name": "Hans Schmidt",
+                                "author_email": "hans.schmidt@tum.de",
+                                "department": "Department of Informatics",
+                                "institution": "Technical University of Munich",
+                                "address": {
+                                    "country": "Germany",
+                                    "state": "Bavaria",
+                                    "zipCode": "80331"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "33445"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 60,
+                    "timestamp": "2024-05-31 11:43:14",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Sustainable Practices in Urban Planning",
+                        "article_type": "Original Research",
+                        "article_resField": "Environmental Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Environmental Science",
+                        "paperAbstract": "This research paper explores sustainable practices in urban planning and their impact on the environment.",
+                        "fileIdentifier": "f5aec19c-c805-48f6-bc9a-3331cba66562",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Mrs",
+                                "author_name": "Emma Jones",
+                                "author_email": "emma.jones@unsw.edu.au",
+                                "department": "Department of Environmental Science",
+                                "institution": "University of New South Wales",
+                                "address": {
+                                    "country": "Australia",
+                                    "state": "New South Wales",
+                                    "zipCode": "2000"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "55667"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 61,
+                    "timestamp": "2024-05-31 11:43:33",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Deep Learning for Image Recognition",
+                        "article_type": "Original Research",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Machine Learning",
+                        "paperAbstract": "This paper presents a comprehensive study on the application of deep learning techniques for image recognition.",
+                        "fileIdentifier": "600992af-4b32-41af-ae7c-eb2426365070",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Mr",
+                                "author_name": "John Doe",
+                                "author_email": "john.doe@stanford.edu",
+                                "department": "Department of Computer Science",
+                                "institution": "Stanford University",
+                                "address": {
+                                    "country": "USA",
+                                    "state": "California",
+                                    "zipCode": "90001"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "66778"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 62,
+                    "timestamp": "2024-05-31 11:43:46",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Optimizing Sorting Algorithms",
+                        "article_type": "Methodologies",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Algorithm Design",
+                        "paperAbstract": "This study focuses on the optimization of various sorting algorithms to improve their efficiency.",
+                        "fileIdentifier": "a48ff50c-7f14-4f09-be49-bee6c60c8c71",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Dr",
+                                "author_name": "Jane Smith",
+                                "author_email": "jane.smith@utoronto.ca",
+                                "department": "Department of Computer Science",
+                                "institution": "University of Toronto",
+                                "address": {
+                                    "country": "Canada",
+                                    "state": "Ontario",
+                                    "zipCode": "M5S 1A1"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "77889"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 63,
+                    "timestamp": "2024-05-31 11:44:05",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Advanced Data Structures for Big Data",
+                        "article_type": "Review Articles",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Data Structures",
+                        "paperAbstract": "This review explores advanced data structures designed to handle big data efficiently.",
+                        "fileIdentifier": "8c16462e-adc8-4e9a-958e-22153bb74873",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Prof",
+                                "author_name": "Michael Brown",
+                                "author_email": "michael.brown@imperial.ac.uk",
+                                "department": "Department of Computing",
+                                "institution": "Imperial College London",
+                                "address": {
+                                    "country": "UK",
+                                    "state": "England",
+                                    "zipCode": "E1 4NS"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "88990"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 64,
+                    "timestamp": "2024-05-31 11:44:19",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Modern Web Development Practices",
+                        "article_type": "Case Studies",
+                        "article_resField": "Computer Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Web Development",
+                        "paperAbstract": "This case study analyzes modern web development practices and their impact on user experience.",
+                        "fileIdentifier": "1fc4261c-16d2-4fae-ae93-22bd07b25db2",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Miss",
+                                "author_name": "Alice Wilson",
+                                "author_email": "alice.wilson@unimelb.edu.au",
+                                "department": "Department of Information Systems",
+                                "institution": "University of Melbourne",
+                                "address": {
+                                    "country": "Australia",
+                                    "state": "Victoria",
+                                    "zipCode": "3000"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "99001"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 65,
+                    "timestamp": "2024-05-31 11:44:37",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Machine Learning in Genomics",
+                        "article_type": "Original Research",
+                        "article_resField": "Biotechnology",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Machine Learning",
+                        "paperAbstract": "This paper investigates the application of machine learning techniques in genomics to enhance data analysis.",
+                        "fileIdentifier": "3b73a799-cdc6-4e09-af11-91362c898f0c",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Mrs",
+                                "author_name": "Lisa Schneider",
+                                "author_email": "lisa.schneider@hu-berlin.de",
+                                "department": "Department of Biotechnology",
+                                "institution": "Humboldt University of Berlin",
+                                "address": {
+                                    "country": "Germany",
+                                    "state": "Berlin",
+                                    "zipCode": "10117"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "00112"
+                }
+            ]
+        },
+        {
+            "indexNo": 6,
+            "timestamp": "Fri May 31 11:45:26 TRT 2024",
+            "nonce": 1,
+            "previousBlockHash": "dcd163206160c0496fcfb2ef572092711e23e16acfe1b221b812d481e92dca6c",
+            "currentBlockHash": "4f69ed6082d65829ef8a2e9ee5e95f46bac050b98b00b85d195b03efbdbec6e7",
+            "merkleRoot": "bcad8c0f6092a9c8cc8dc2c12b9187cb5ee36528a4b155d3f0c3d74403d54c2f",
+            "sender_uuid": "00000000-0000-0000-0000-000000000000",
+            "digital_signature": "fYx2eQhyPTPysrxCYJYMleCv5y7LSBQHvJiAZ1k9QYow92rcbhgFm9qTJ8S3yk4TQ0fjCnpThp1RtNKq8yEqpbbveXcvTDg564nJEAd0h09zCnPfZwfpMRatpkICDbWOSmuYMF5M1RgOKqwbwD3mTk4BCbnLpM63c3GEfC4NFlZ+qW6z82P4WbqA1IlX0V4wYRjdjJ/MLlwnSe9HsDLJi99Uaq1w2Ng0hH5HfIusT4gDFttk2dTJp1KAYgGInJe3q/k0FCfYdEd9wJzYY8IYEe8GQiN6d+5ksPMT9OWQTs5kaEHS8cthIrhJEFwidbhr7qPSCe6GwyvS+VY3W0ZoRw==",
+            "transactionList": [
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 66,
+                    "timestamp": "2024-05-31 11:44:50",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Climate Change and Renewable Energy",
+                        "article_type": "Review Articles",
+                        "article_resField": "Environmental Science",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Environmental Science",
+                        "paperAbstract": "This review discusses the relationship between climate change and the adoption of renewable energy sources.",
+                        "fileIdentifier": "97decb25-746b-4d16-b80a-54c41b27e66c",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Dr",
+                                "author_name": "Robert Green",
+                                "author_email": "robert.green@berkeley.edu",
+                                "department": "Department of Environmental Science",
+                                "institution": "University of California, Berkeley",
+                                "address": {
+                                    "country": "USA",
+                                    "state": "California",
+                                    "zipCode": "94105"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "11223"
+                },
+                {
+                    "@type": "submitEntity",
+                    "tx_id": 67,
+                    "timestamp": "2024-05-31 11:45:01",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "article": {
+                        "article_title": "Quantum Computing for Physics Simulations",
+                        "article_type": "Original Research",
+                        "article_resField": "Physics",
+                        "article_date": "31-05-2024",
+                        "article_keywords": "Physics",
+                        "paperAbstract": "This paper explores the potential of quantum computing in conducting complex physics simulations.",
+                        "fileIdentifier": "af499299-7f94-4e76-b2f3-7792aea8206d",
+                        "authors": [
+                            {
+                                "id": null,
+                                "title": "Mr",
+                                "author_name": "Hiroshi Tanaka",
+                                "author_email": "hiroshi.tanaka@u-tokyo.ac.jp",
+                                "department": "Department of Physics",
+                                "institution": "University of Tokyo",
+                                "address": {
+                                    "country": "Japan",
+                                    "state": "Tokyo",
+                                    "zipCode": "100-0001"
+                                }
+                            }
+                        ]
+                    },
+                    "paper_hash": "22334"
+                }
+            ]
+        },
+        {
+            "indexNo": 7,
+            "timestamp": "Sat Jun 01 19:36:20 TRT 2024",
+            "nonce": 1,
+            "previousBlockHash": "4f69ed6082d65829ef8a2e9ee5e95f46bac050b98b00b85d195b03efbdbec6e7",
+            "currentBlockHash": "61555791ded4b79d5cc909a5f00c3c7f2d98c8fdda0354b887573402f9e7d8fa",
+            "merkleRoot": "b2e3df1f0154f17fda9cfbccdb46c1b8e13e9edd3902e1741a26aecd0ad3732a",
+            "sender_uuid": "00000000-0000-0000-0000-000000000000",
+            "digital_signature": "kZcCg7MiuEyI4AMhZpqoxVT+VskZ3KzJr59dVJnzTVkosBTjXYgyLNcsregrdh77bxZiPs+c4zFnXUYVcHE30DhGCR5M4AgREsxh+lkXmmZX7rYQqq/EJoRYiG0gytv+/vIwjkefYBMDyjcyc91Iyb8aeDza2duWJgD0JPfcJeQTq9lbq9ZRm7KYHkSXT0AK9hows11lMJSmjqlOvSoF3RAVL272KiFWCoRdX4tKOjH0072KXZyN+yMzaTwZIMKFff2U2ywQlE4dK8YEZO2wSV/BZBh8vZVuG6wwbuNdgqYfYDzHSBzg0ZHgKI26uJOWApdm3TzL7qLgVIKCgryyCQ==",
+            "transactionList": [
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 68,
+                    "timestamp": "2024-06-01 19:34:20",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 48,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 69,
+                    "timestamp": "2024-06-01 19:34:33",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 49,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 70,
+                    "timestamp": "2024-06-01 19:34:39",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 50,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 71,
+                    "timestamp": "2024-06-01 19:34:51",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 51,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 72,
+                    "timestamp": "2024-06-01 19:35:22",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 52,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 73,
+                    "timestamp": "2024-06-01 19:35:32",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 53,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 74,
+                    "timestamp": "2024-06-01 19:35:41",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 54,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 75,
+                    "timestamp": "2024-06-01 19:35:53",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 55,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 76,
+                    "timestamp": "2024-06-01 19:36:02",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 56,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 77,
+                    "timestamp": "2024-06-01 19:36:13",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 57,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                }
+            ]
+        },
+        {
+            "indexNo": 8,
+            "timestamp": "Sat Jun 01 19:41:13 TRT 2024",
+            "nonce": 1,
+            "previousBlockHash": "61555791ded4b79d5cc909a5f00c3c7f2d98c8fdda0354b887573402f9e7d8fa",
+            "currentBlockHash": "20a50477670250369022b269bdda7f10f3c3e4581dfbb6780ed9cc01576e2f33",
+            "merkleRoot": "bf545e493c16ec4dd15eba490ace85b909c7318b5e348cf9b1f40f2db59ecb16",
+            "sender_uuid": "00000000-0000-0000-0000-000000000000",
+            "digital_signature": "mM3BjOmyxkMMFvTWip5/+RolfkNBqU/pZIb8AsRNTjCkexkZpIBhFtL53DTS4rUXAtRtKdt2R9j27FvmbQARDKb8GrMB7jJePPfpVwk0zxos7bmvZ0b1qPCaxtmVOT7/4xqRkGOOM3IG2V+06FaAO9F1kIcgTlixxsGefRYfhfOzsMvvX1dFJSFNsCE7p8BJunLzQ3HXBkmb9AOPlz/uRv177Vy55d5OyDXWLpCcojO2hxtLVG9xVL1xJEf03p2rD7N+4+MX2iC6rZ1eJLmfPTmxRiaYY3Q7edHiQww5CTdrU2wFVzRvZnT7fmt1D3GXKuDJO2mTqo0vvLHVS61PnQ==",
+            "transactionList": [
+                {
+                    "@type": "FinalDecisionEntity",
+                    "tx_id": 78,
+                    "timestamp": "2024-06-01 19:39:19",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 48,
+                    "acceptanceEnumDTO": "ACCEPTED",
+                    "decision_file_hash": "000000",
+                    "decisionPoint": 10,
+                    "review_type": "FirstReview",
+                    "fileIdentifier": "531d13bc-69bb-4dcb-ba33-7ac7e6605448"
+                },
+                {
+                    "@type": "FinalDecisionEntity",
+                    "tx_id": 79,
+                    "timestamp": "2024-06-01 19:39:55",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 49,
+                    "acceptanceEnumDTO": "ACCEPTED",
+                    "decision_file_hash": "000000",
+                    "decisionPoint": 10,
+                    "review_type": "FirstReview",
+                    "fileIdentifier": "a91a692f-3d35-4b48-8c36-587488a22ef9"
+                },
+                {
+                    "@type": "FinalDecisionEntity",
+                    "tx_id": 80,
+                    "timestamp": "2024-06-01 19:40:15",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 50,
+                    "acceptanceEnumDTO": "ACCEPTED",
+                    "decision_file_hash": "000000",
+                    "decisionPoint": 10,
+                    "review_type": "FirstReview",
+                    "fileIdentifier": "fae505a5-e4c7-4cdd-97e0-df2039037a8b"
+                },
+                {
+                    "@type": "FinalDecisionEntity",
+                    "tx_id": 81,
+                    "timestamp": "2024-06-01 19:40:35",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 51,
+                    "acceptanceEnumDTO": "ACCEPTED",
+                    "decision_file_hash": "000000",
+                    "decisionPoint": 1,
+                    "review_type": "FirstReview",
+                    "fileIdentifier": "c17690ec-cc35-4bfe-b1aa-03ffd0f62f92"
+                },
+                {
+                    "@type": "FinalDecisionEntity",
+                    "tx_id": 82,
+                    "timestamp": "2024-06-01 19:41:01",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 52,
+                    "acceptanceEnumDTO": "ACCEPTED",
+                    "decision_file_hash": "000000",
+                    "decisionPoint": 10,
+                    "review_type": "FirstReview",
+                    "fileIdentifier": "4cc46d88-9c51-4a0b-bca7-2f0f9cc04509"
+                }
+            ]
+        },
+        {
+            "indexNo": 9,
+            "timestamp": "Sat Jun 01 19:43:15 TRT 2024",
+            "nonce": 1,
+            "previousBlockHash": "20a50477670250369022b269bdda7f10f3c3e4581dfbb6780ed9cc01576e2f33",
+            "currentBlockHash": "968117d33b7167b5d4cba169a8c69063e741744f8ddb44e90fdb89549784e8a5",
+            "merkleRoot": "e7649eef93462bb698fb41f7618226c6cfa8feb4eac68175ad20dbce05d835eb",
+            "sender_uuid": "00000000-0000-0000-0000-000000000000",
+            "digital_signature": "MuYEeaMK5COuzcaMU3rx27DSulJGSqneRoLe73Uz73+iBb10QSyUXQTB4eLnmR9BhzUQBJB3YObwenksTvtIHvEfKdkxZhdM3Km9Rkuv3v71K9zj1MCs+y9hoCTSB9fosmjheCrASeItEDJQ+vqvKLIyMWB+wgt1U7xx5Nr6+vlKZgWtocM72+aAZ1DCpl8krrfS2Sgy+wlFMIk0jW0AssqSWT7dq9c1lfezw7sI5eX8SR2Zy5Fq2VC8tL9AIDYxr+KrwSi5MELX/nVeLJPfspwYS7EE6CPm8cSBqrqQEz9RjPByAvzwcxRiAXk2eRtOnGbTqGwdqTIF07yXbYD6Gw==",
+            "transactionList": [
+                {
+                    "@type": "FinalDecisionEntity",
+                    "tx_id": 83,
+                    "timestamp": "2024-06-01 19:41:56",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 53,
+                    "acceptanceEnumDTO": "ACCEPTED",
+                    "decision_file_hash": "000000",
+                    "decisionPoint": 1,
+                    "review_type": "FirstReview",
+                    "fileIdentifier": "f4afb001-5f3c-4913-a8a6-d1f42bcb3d59"
+                },
+                {
+                    "@type": "FinalDecisionEntity",
+                    "tx_id": 84,
+                    "timestamp": "2024-06-01 19:42:14",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 54,
+                    "acceptanceEnumDTO": "ACCEPTED",
+                    "decision_file_hash": "000000",
+                    "decisionPoint": 1,
+                    "review_type": "FirstReview",
+                    "fileIdentifier": "eafca239-a0ce-4842-a399-9c57a9719dfe"
+                },
+                {
+                    "@type": "FinalDecisionEntity",
+                    "tx_id": 85,
+                    "timestamp": "2024-06-01 19:42:30",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 55,
+                    "acceptanceEnumDTO": "ACCEPTED",
+                    "decision_file_hash": "000000",
+                    "decisionPoint": 1,
+                    "review_type": "FirstReview",
+                    "fileIdentifier": "eb3731ab-2b56-4630-a6aa-db4270441fd8"
+                },
+                {
+                    "@type": "FinalDecisionEntity",
+                    "tx_id": 86,
+                    "timestamp": "2024-06-01 19:42:55",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 56,
+                    "acceptanceEnumDTO": "ACCEPTED",
+                    "decision_file_hash": "000000",
+                    "decisionPoint": 2,
+                    "review_type": "FirstReview",
+                    "fileIdentifier": "de31f7f8-d0fb-486a-b4d0-5b57dd3571b6"
+                },
+                {
+                    "@type": "FinalDecisionEntity",
+                    "tx_id": 87,
+                    "timestamp": "2024-06-01 19:43:10",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Kutay Kaan Koçak",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "kkutaykaan@hotmail.com",
+                    "manuscriptId": 57,
+                    "acceptanceEnumDTO": "ACCEPTED",
+                    "decision_file_hash": "000000",
+                    "decisionPoint": 1,
+                    "review_type": "FirstReview",
+                    "fileIdentifier": "f1339664-abf8-4cd1-a860-f7416a1aacfa"
+                }
+            ]
+        },
+        {
+            "indexNo": 10,
+            "timestamp": "Sat Jun 01 19:47:33 TRT 2024",
+            "nonce": 1,
+            "previousBlockHash": "968117d33b7167b5d4cba169a8c69063e741744f8ddb44e90fdb89549784e8a5",
+            "currentBlockHash": "28c7d1001af532aa6e1b53f69d7770d32bb3608388859c0f8243708f34bc419a",
+            "merkleRoot": "85f05a895315a4d0b611ad4f374303f48f52692279c5396bc30ecf5c1fe5e1f2",
+            "sender_uuid": "00000000-0000-0000-0000-000000000000",
+            "digital_signature": "U0OuhanbPaZ/d+riU1dmd/71Lbpf8qIEDyw+/9WguW8ZggVeG8tB+8LECnQA/X3jIsVjCSJgkLlB+wf26BnlNmN47iLVOswnPnzGvHH4Mk82QlzWGTlGHI0D2NSAOg1tX7yoTeT4XD/MSiCX1qHe9auYfosWwtm1kXUZTcjeNHHCLLgQV5FEPm0VdsdVL48DDWbd1SvGPXWqTNIiauo63uF6fAej2zHB/rwkm5L93SIeL/yw3OUzx2Ti6tITrI3HAK2OSnZjBE+YnnEO0xhxbdUGhm7sCs7O7kgTLhRX9DeT8+0cAikAlB+38h4u+mKIqq2sk9Z3Qef9/sSnzyDjeg==",
+            "transactionList": [
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 88,
+                    "timestamp": "2024-06-01 19:46:33",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Ozgur Kamali",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "ozgurkamali@gmail.com",
+                    "manuscriptId": 48,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 89,
+                    "timestamp": "2024-06-01 19:47:00",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Ozgur Kamali",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "ozgurkamali@gmail.com",
+                    "manuscriptId": 49,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 90,
+                    "timestamp": "2024-06-01 19:47:03",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Ozgur Kamali",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "ozgurkamali@gmail.com",
+                    "manuscriptId": 50,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 91,
+                    "timestamp": "2024-06-01 19:47:06",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Ozgur Kamali",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "ozgurkamali@gmail.com",
+                    "manuscriptId": 51,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 92,
+                    "timestamp": "2024-06-01 19:47:09",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Ozgur Kamali",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "ozgurkamali@gmail.com",
+                    "manuscriptId": 52,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 93,
+                    "timestamp": "2024-06-01 19:47:12",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Ozgur Kamali",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "ozgurkamali@gmail.com",
+                    "manuscriptId": 53,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 94,
+                    "timestamp": "2024-06-01 19:47:16",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Ozgur Kamali",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "ozgurkamali@gmail.com",
+                    "manuscriptId": 54,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 95,
+                    "timestamp": "2024-06-01 19:47:21",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Ozgur Kamali",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "ozgurkamali@gmail.com",
+                    "manuscriptId": 55,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 96,
+                    "timestamp": "2024-06-01 19:47:25",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Ozgur Kamali",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "ozgurkamali@gmail.com",
+                    "manuscriptId": 56,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                },
+                {
+                    "@type": "ReviewRequestEntity",
+                    "tx_id": 97,
+                    "timestamp": "2024-06-01 19:47:29",
+                    "sender_uuid": "00000000-0000-0000-0000-000000000000",
+                    "reviewer_name": "Ozgur Kamali",
+                    "reviewerResearchField": "Computer Science",
+                    "reviewer_email": "ozgurkamali@gmail.com",
+                    "manuscriptId": 57,
+                    "acceptanceEnumDTO": "ACCEPTED"
+                }
+            ]
+        }
+    ]

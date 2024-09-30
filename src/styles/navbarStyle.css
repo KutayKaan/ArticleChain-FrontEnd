@@ -1,0 +1,17 @@
+.navbar-main {
+    font-family: "Lobster", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.icon-size{
+    font-size: 26px;
+}
+
+.navItem{
+    transition: 0.5s;
+    border-bottom: 1px solid #577B8D;
+}
+.navItem:hover{
+    border-bottom: 1px solid #FFF9D0;
+}

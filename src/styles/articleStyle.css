@@ -1,0 +1,28 @@
+.articles .avatar-md {
+    height: 5rem;
+    width: 5rem;
+}
+
+.articles .fs-19 {
+    font-size: 19px;
+}
+
+.articles .primary-link {
+    color: #314047;
+    transition: all 0.5s ease;
+}
+
+.articles .candidate-list-box .favorite-icon {
+    position: absolute;
+    right: 22px;
+    top: 22px;
+}
+
+.articles .fs-14 {
+    font-size: 14px;
+}
+.articleDetails .bg-soft-secondary,
+.articles .bg-soft-secondary {
+    background-color: rgba(116, 120, 141, 0.15) !important;
+    color: #74788d !important;
+}
